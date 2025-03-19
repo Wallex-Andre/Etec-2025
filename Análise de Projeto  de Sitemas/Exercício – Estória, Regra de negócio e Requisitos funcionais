@@ -1,0 +1,142 @@
+Cenário 1: Sistema de Gerenciamento de Estoque para uma Loja de Roupas
+Estória:
+História Completa:
+A loja "Moda & Estilo" estava enfrentando desafios no gerenciamento de seu estoque e nas vendas de suas peças de roupa. Com o crescimento das operações e o aumento da variedade de produtos, a equipe da loja percebeu que precisava de uma solução mais eficiente para garantir que todas as peças fossem controladas adequadamente, as vendas registradas corretamente e os clientes atendidos com rapidez e precisão.
+Foi então que a loja decidiu implementar um novo sistema de gestão, que pudesse otimizar todos os processos e garantir que a operação fosse mais ágil e transparente. O sistema foi projetado para atender às necessidades da loja de forma completa, desde o cadastro de novas peças até a geração de relatórios detalhados sobre as vendas.
+Cadastro e Gerenciamento de Peças de Roupa:
+Com a implementação do novo sistema, os funcionários passaram a registrar todas as novas peças de roupa de forma rápida e eficiente. Cada peça recebeu informações detalhadas como marca, modelo, tamanho, cor, preço de custo e preço de venda, o que facilitava a identificação e o controle de cada produto no estoque. O sistema também permitiu que peças já cadastradas fossem editadas ou até mesmo removidas quando necessário, sempre mantendo a precisão dos dados.
+Controle de Estoque e Vendas:
+Sempre que uma nova remessa de roupas chegava à loja, os funcionários registravam a entrada dessas peças no sistema, que automaticamente atualizava a quantidade disponível no estoque. Quando uma peça era vendida, a quantidade no estoque era ajustada automaticamente, e um registro da venda era gerado, incluindo detalhes como data, valor pago e produto adquirido. Esse processo garantiu que a loja tivesse um controle mais preciso e em tempo real sobre o estoque, evitando erros e desorganização.
+Alertas de Reposição de Estoque:
+Com a implementação do sistema, a loja passou a receber alertas sempre que o estoque de uma peça atingia um nível crítico. Isso permitia que os gestores da loja tomassem ações rápidas para reabastecer o estoque antes que as peças mais procuradas se esgotassem, garantindo que os clientes nunca saíssem sem o produto desejado. Esses alertas ajudaram a melhorar a eficiência da gestão e evitar perdas de vendas por falta de estoque.
+Análise de Vendas e Estratégias Comerciais:
+Além de ajudar no controle de estoque, o sistema permitiu à loja gerar relatórios detalhados sobre as vendas. Os gestores puderam acompanhar o desempenho de vendas por período, tipo de peça, marca, e outros critérios importantes. Esses relatórios proporcionaram insights valiosos, permitindo à loja ajustar suas estratégias de marketing, identificar produtos mais vendidos e tomar decisões de compras mais assertivas.
+Experiência do Usuário:
+O novo sistema também foi projetado para ser fácil de usar. A interface amigável e intuitiva permitiu que os funcionários, mesmo os menos familiarizados com tecnologia, pudessem operar o sistema sem dificuldades. A agilidade no uso ajudou a melhorar a experiência tanto dos colaboradores quanto dos clientes, resultando em um atendimento mais rápido e eficaz.
+Segurança e Confiabilidade:
+Além de ser eficiente, o sistema garantiu a segurança dos dados. Com controle de acesso, apenas funcionários autorizados podiam acessar informações sensíveis, como registros de vendas ou ajustes no estoque. O sistema também fazia backups regulares para garantir que nenhuma informação importante fosse perdida em caso de falhas técnicas, oferecendo maior tranquilidade e confiabilidade para a loja.
+Com o novo sistema, a "Moda & Estilo" conseguiu otimizar seus processos, melhorar o atendimento ao cliente e ter um controle mais eficiente sobre o estoque e as vendas. A loja não só aumentou sua produtividade, mas também obteve uma visão mais clara de seus resultados, o que possibilitou uma gestão mais estratégica e alinhada com os objetivos de crescimento da empresa.
+Regras de Negócio:
+•	RN01: Cada peça de roupa deve ser cadastrada com informações detalhadas, incluindo marca, modelo, tamanho, cor, preço de custo e preço de venda.
+•	RN02: O sistema deve atualizar automaticamente o estoque sempre que uma peça for vendida ou recebida.
+•	RN03: O sistema deve emitir alertas quando o estoque de uma peça atingir um nível crítico, permitindo a reposição antes do esgotamento.
+•	RN04: O sistema deve gerar relatórios de vendas por período, tipo de peça, marca e outros critérios relevantes.
+•	RN05: Apenas funcionários autorizados podem acessar informações sensíveis, como registros de vendas e ajustes de estoque.
+Requisitos Funcionais:
+•	RF01: O sistema deve permitir o cadastro de novas peças de roupa com informações detalhadas.
+•	RF02: O sistema deve permitir a edição e remoção de peças já cadastradas.
+•	RF03: O sistema deve atualizar automaticamente o estoque após cada venda ou entrada de novas peças.
+•	RF04: O sistema deve emitir alertas de reposição de estoque quando o nível de uma peça atingir um limite crítico.
+•	RF05: O sistema deve gerar relatórios de vendas com base em diferentes critérios, como período, tipo de peça e marca.
+Requisitos Não Funcionais:
+•	RNF01: O sistema deve ser fácil de usar e intuitivo, com uma interface amigável para funcionários com diferentes níveis de familiaridade com tecnologia.
+•	RNF02: O sistema deve ser seguro, com controle de acesso para proteger informações sensíveis.
+•	RNF03: O sistema deve realizar backups regulares para evitar perda de dados em caso de falhas técnicas.
+Cenário 2: Aplicativo de Agendamento para um Salão de Beleza
+Estória:
+Eu, Carla Souza, dona do salão de beleza "Beleza & Estilo", enfrento um desafio crescente: o agendamento de serviços. Atualmente, dependo de telefonemas e agendamentos presenciais, o que resulta em longas filas de espera e um controle de agenda caótico. Preciso de uma solução moderna e eficiente: um aplicativo de agendamento.
+Com o aplicativo, meu objetivo é proporcionar uma experiência de agendamento rápida e fácil para minhas clientes. Além disso, desejo reduzir o número de faltas através de lembretes automáticos.
+Para garantir o sucesso do aplicativo, defini as seguintes diretrizes:
+•	O aplicativo deve permitir o cadastro detalhado de clientes, incluindo nome, telefone, e-mail e histórico de serviços.
+•	As clientes devem poder visualizar os horários disponíveis para cada serviço e profissional, facilitando a escolha do melhor momento.
+•	O aplicativo deve enviar lembretes automáticos de agendamento 24 horas antes do horário marcado, reduzindo o número de faltas.
+•	O aplicativo deve permitir o pagamento dos serviços através de diversos métodos, como cartão de crédito e débito, oferecendo praticidade e segurança.
+•	O aplicativo deve gerar relatórios de agendamentos por período, serviço, profissional e outros critérios, fornecendo informações valiosas para a gestão do salão.
+•	As clientes devem poder se cadastrar e fazer login no aplicativo de forma fácil e segura.
+•	O aplicativo deve permitir o agendamento de serviços, incluindo a escolha do profissional e horário desejados.
+•	O aplicativo deve enviar lembretes automáticos de agendamento para as clientes.
+•	O aplicativo deve permitir o pagamento dos serviços através de diferentes métodos.
+•	O aplicativo deve gerar relatórios de agendamentos para auxiliar na gestão do salão.
+•	O aplicativo deve ser fácil de usar e intuitivo, garantindo uma experiência agradável para as clientes.
+•	O aplicativo deve ser rápido e responsivo, evitando atrasos e frustrações.
+•	O aplicativo deve ser seguro e proteger os dados dos clientes, garantindo a privacidade e confidencialidade das informações.
+Com este aplicativo, espero otimizar o agendamento de serviços, melhorar a experiência das minhas clientes e impulsionar o crescimento do meu salão "Beleza & Estilo".
+Regras de Negócio:
+•	RN01: O aplicativo deve permitir o cadastro de clientes com informações como nome, telefone, e-mail e histórico de serviços.
+•	RN02: O aplicativo deve permitir que as clientes visualizem horários disponíveis para cada serviço e profissional.
+•	RN03: O aplicativo deve enviar lembretes automáticos 24 horas antes do horário agendado.
+•	RN04: O aplicativo deve permitir o pagamento dos serviços através de diferentes métodos, como cartão de crédito e débito.
+•	RN05: O aplicativo deve gerar relatórios de agendamentos por período, serviço e profissional.
+Requisitos Funcionais:
+•	RF01: O aplicativo deve permitir o cadastro e login de clientes de forma segura.
+•	RF02: O aplicativo deve permitir a visualização de horários disponíveis para cada serviço e profissional.
+•	RF03: O aplicativo deve enviar lembretes automáticos de agendamento para as clientes.
+•	RF04: O aplicativo deve permitir o pagamento dos serviços através de diferentes métodos.
+•	RF05: O aplicativo deve gerar relatórios de agendamentos para auxiliar na gestão do salão.
+Requisitos Não Funcionais:
+•	RNF01: O aplicativo deve ser fácil de usar e intuitivo, garantindo uma experiência agradável para as clientes.
+•	RNF02: O aplicativo deve ser rápido e responsivo, evitando atrasos e frustrações.
+•	RNF03: O aplicativo deve ser seguro, protegendo os dados dos clientes e garantindo a privacidade das informações.
+Cenário 3: Plataforma de E-commerce para uma Loja de Artesanato
+Estória:
+Eu, Ana Paula Oliveira, artesã e proprietária da loja "Arte & Talento", enfrento um desafio para expandir meu negócio. Atualmente, vendo meus produtos apenas em feiras e eventos, o que limita meu alcance. Preciso de uma plataforma de e-commerce para vender meus produtos online e alcançar clientes em todo o país.
+Para garantir o sucesso da plataforma, defini as seguintes diretrizes:
+•	A plataforma deve permitir o cadastro de produtos, incluindo fotos, descrição, preço e informações sobre o frete.
+•	A plataforma deve permitir o pagamento dos produtos através de diferentes métodos (cartão de crédito, boleto bancário, etc.).
+•	A plataforma deve calcular automaticamente o valor do frete de acordo com o CEP do cliente.
+•	A plataforma deve gerar automaticamente a etiqueta de envio para o vendedor.
+•	A plataforma deve enviar e-mails de confirmação de compra e envio para o cliente.
+•	A plataforma deve permitir o cadastro e gerenciamento de produtos.
+•	A plataforma deve permitir o pagamento dos produtos.
+•	A plataforma deve calcular o frete automaticamente.
+•	A plataforma deve gerar etiquetas de envio.
+•	A plataforma deve enviar e-mails de confirmação.
+•	A plataforma deve ser fácil de usar e intuitiva para o vendedor e para o cliente.
+•	A plataforma deve ser segura e proteger os dados dos clientes e vendedores.
+•	A plataforma deve ter um design atraente e profissional.
+Com esta plataforma de e-commerce, espero expandir meu negócio, alcançar novos clientes e aumentar as vendas da minha loja "Arte & Talento".
+Regras de Negócio:
+•	RN01: A plataforma deve permitir o cadastro de produtos com fotos, descrição, preço e informações sobre o frete.
+•	RN02: A plataforma deve permitir o pagamento dos produtos através de diferentes métodos, como cartão de crédito e boleto bancário.
+•	RN03: A plataforma deve calcular automaticamente o valor do frete com base no CEP do cliente.
+•	RN04: A plataforma deve gerar automaticamente etiquetas de envio para o vendedor.
+•	RN05: A plataforma deve enviar e-mails de confirmação de compra e envio para o cliente.
+Requisitos Funcionais:
+•	RF01: A plataforma deve permitir o cadastro e gerenciamento de produtos.
+•	RF02: A plataforma deve permitir o pagamento dos produtos através de diferentes métodos.
+•	RF03: A plataforma deve calcular o frete automaticamente com base no CEP do cliente.
+•	RF04: A plataforma deve gerar etiquetas de envio automaticamente.
+•	RF05: A plataforma deve enviar e-mails de confirmação de compra e envio para o cliente.
+Requisitos Não Funcionais:
+•	RNF01: A plataforma deve ser fácil de usar e intuitiva para o vendedor e o cliente.
+•	RNF02: A plataforma deve ser segura, protegendo os dados dos clientes e vendedores.
+•	RNF03: A plataforma deve ter um design atraente e profissional.
+Cenário 4: Sistema de Gerenciamento de Clientes para uma Empresa de Consultoria
+Estória:
+Eu, Roberto Almeida, consultor e proprietário da empresa "Almeida Consultoria", preciso de um sistema para gerenciar meus clientes. Atualmente, utilizo planilhas e agendas, o que dificulta o acompanhamento dos projetos e o relacionamento com os clientes. Com o sistema, quero ter uma visão completa de cada cliente, incluindo informações de contato, histórico de projetos, reuniões e documentos.
+Regras de Negócio:
+•	RN01: O sistema deve permitir o cadastro de clientes com informações de contato, histórico de projetos, reuniões e documentos.
+•	RN02: O sistema deve permitir o acompanhamento de projetos em andamento.
+•	RN03: O sistema deve permitir o agendamento de reuniões e o registro de atas.
+•	RN04: O sistema deve gerar relatórios sobre o histórico de projetos e clientes.
+•	RN05: O sistema deve permitir o armazenamento e gerenciamento de documentos relacionados aos clientes.
+Requisitos Funcionais:
+•	RF01: O sistema deve permitir o cadastro e gerenciamento de clientes com informações detalhadas.
+•	RF02: O sistema deve permitir o acompanhamento de projetos em andamento.
+•	RF03: O sistema deve permitir o agendamento de reuniões e o registro de atas.
+•	RF04: O sistema deve gerar relatórios sobre o histórico de projetos e clientes.
+•	RF05: O sistema deve permitir o armazenamento e gerenciamento de documentos.
+Requisitos Não Funcionais:
+•	RNF01: O sistema deve ser seguro, protegendo os dados dos clientes e projetos.
+•	RNF02: O sistema deve ser fácil de usar e intuitivo para os consultores.
+•	RNF03: O sistema deve ser rápido e responsivo, evitando atrasos na consulta de informações.
+Cenário 5: Aplicativo de Delivery de Comida para um Restaurante
+Estória:
+Eu, Mariana Ferreira, gerente do restaurante "Sabores do Sul", preciso de um aplicativo de delivery para atender aos pedidos online. Atualmente, recebemos pedidos por telefone ou WhatsApp, o que dificulta o controle e gera erros. Com o aplicativo, quero que os clientes possam fazer seus pedidos de forma rápida e fácil, além de acompanhar o status da entrega.
+Regras de Negócio:
+•	RN01: O aplicativo deve permitir que os clientes façam pedidos de forma rápida e fácil.
+•	RN02: O aplicativo deve permitir que os clientes acompanhem o status do pedido em tempo real.
+•	RN03: O aplicativo deve permitir o pagamento dos pedidos através de diferentes métodos, como cartão de crédito e dinheiro na entrega.
+•	RN04: O aplicativo deve gerar relatórios de pedidos por período, cliente e tipo de prato.
+•	RN05: O aplicativo deve enviar notificações sobre o status do pedido, como "em preparo" e "a caminho".
+Requisitos Funcionais:
+•	RF01: O aplicativo deve permitir que os clientes façam pedidos de forma rápida e fácil.
+•	RF02: O aplicativo deve permitir que os clientes acompanhem o status do pedido em tempo real.
+•	RF03: O aplicativo deve permitir o pagamento dos pedidos através de diferentes métodos.
+•	RF04: O aplicativo deve gerar relatórios de pedidos por período, cliente e tipo de prato.
+•	RF05: O aplicativo deve enviar notificações sobre o status do pedido.
+Requisitos Não Funcionais:
+•	RNF01: O aplicativo deve ser fácil de usar e intuitivo para os clientes.
+•	RNF02: O aplicativo deve ser rápido e responsivo, evitando atrasos no processamento dos pedidos.
+•	RNF03: O aplicativo deve ser seguro, protegendo os dados dos clientes e as informações de pagamento.
+
